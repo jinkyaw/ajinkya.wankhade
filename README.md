@@ -2,6 +2,8 @@
 
 I'm **Ajinkya Wankhade**, 
 
+**[Profile](https://jinkyaw.github.io/ajinkya.wankhade/)**
+
 Currently, I live in India and work at **[Pattern](https://pattern.com/mena/)**. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinkyaw&label=Profile%20views&color=0e75b6&style=flat" alt="jinkyaw" /> </p>
